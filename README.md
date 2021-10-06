@@ -1,9 +1,7 @@
 # JavaScript Array and Loops HW
 
 
-## Solution:
 
-- [Solution here](solution.jsS)
 
 ### Hint:
 
